@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="NexusPenguin/device_motorola_clark_du" path="device/motorola/clark" remote="github" revision="tesla" />
+  <project name="DirtyUnicorns/android_kernel_motorola_msm8992" path="kernel/motorola/msm8992" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_vendor_motorola" path="vendor/motorola" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="n7x-caf" />
+  <project name="DirtyUnicorns/android_system_qcom" path="system/qcom" remote="github" revision="n7x-caf" />
+</manifest>
